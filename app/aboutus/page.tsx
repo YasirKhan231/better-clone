@@ -1,9 +1,12 @@
-import About from "@/pages/about-us";
+import AboutContent from "@/pages/about-content";
+import NavBar from "@/components/navbar";
+import Footer from "@/components/footer";
 export default function aboutUs() {
   return (
     <>
-      " this isw thre about page main foilder "
-      <About />
+      <NavBar />
+      <AboutContent />
+      <Footer />
     </>
   );
 }

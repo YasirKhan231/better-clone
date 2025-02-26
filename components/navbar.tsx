@@ -13,10 +13,10 @@ export default function NavBar() {
           <Link href="#" className="text-sm font-medium">
             Home
           </Link>
-          <Link href="#" className="text-sm font-medium">
+          <Link href="/aboutus" className="text-sm font-medium">
             About Us
           </Link>
-          <Link href="#" className="text-sm font-medium">
+          <Link href="/mortgageCalculator" className="text-sm font-medium">
             Mortgage Calculator
           </Link>
         </div>
