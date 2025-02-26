@@ -14,8 +14,10 @@ A full-stack web application. Follow the steps below to run it locally.
    ```bash
    git clone https://github.com/YasirKhan231/better-clone.git
    cd better-clone
-
+   
+ ```bash
 npm install
 
+ ```bash
 npm run dev
 
