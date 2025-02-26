@@ -176,9 +176,9 @@ export default function AboutContent() {
                 <div
                   className={`${
                     item.align === "left" ? "col-start-3" : "col-start-1"
-                  } bg-gray-200 text-black p-6 rounded-lg`}
+                  } bg-gray-100 p-6 rounded-lg`}
                 >
-                  <p>{item.content}</p>
+                  <p className="text-gray-600">{item.content}</p>
                 </div>
                 <div className="flex items-center justify-center z-10">
                   <div className="bg-[#008060] text-white px-4 py-2 rounded-full text-sm font-medium">

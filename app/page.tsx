@@ -1,8 +1,13 @@
+import React from "react";
 import Start from "@/pages/start";
-export default function Main() {
+import Footer from "@/components/footer";
+function page() {
   return (
     <>
       <Start />
+      <Footer />
     </>
   );
 }
+
+export default page;
