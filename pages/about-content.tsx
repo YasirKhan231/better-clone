@@ -19,8 +19,8 @@ export default function AboutContent() {
         <div className="text-center space-y-6">
           <h2 className="text-[#008060] font-semibold text-xl">Our mission</h2>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-medium leading-tight max-w-5xl mx-auto">
-            We're making homeownership simpler, faster — and most importantly,
-            more accessible for all Americans.
+            We&aposre making homeownership simpler, faster — and most
+            importantly, more accessible for all Americans.
           </h1>
         </div>
       </section>
@@ -41,7 +41,7 @@ export default function AboutContent() {
             </Button>
             <iframe
               src="https://www.youtube.com/embed/1KjYlLBM9j4"
-              title="Vishal Garg's Story"
+              title="Vishal Garg&aposs Story"
               className="absolute inset-0 w-full h-full"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
@@ -53,27 +53,27 @@ export default function AboutContent() {
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed">
               The traditional processes around homeownership are opaque and
-              stressful. Fees aren't transparent and some are simply outrageous
-              in size. Traditional mortgage lending is rife with unnecessary
-              fees and slow, painful processes. It's a system set up to benefit
-              insiders — not you. Better.com CEO, Vishal Garg, set out to change
-              that.
+              stressful. Fees aren&apost transparent and some are simply
+              outrageous in size. Traditional mortgage lending is rife with
+              unnecessary fees and slow, painful processes. It&aposs a system
+              set up to benefit insiders — not you. Better.com CEO, Vishal Garg,
+              set out to change that.
             </p>
             <Button
               className="bg-[#008060] hover:bg-[#008060]/90"
               onClick={openYoutubeVideo}
             >
-              Read Vishal's story
+              Read Vishal&aposs story
             </Button>
           </div>
         </div>
       </section>
 
-      {/* How We're Changing Things Section */}
+      {/* How We&aposre Changing Things Section */}
       <section className="bg-[#008060] text-white py-16 md:py-24">
         <div className="container max-w-7xl mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-medium mb-8">
-            How we're changing things
+            How we&aposre changing things
           </h2>
           <div className="space-y-6 text-lg">
             <p>
@@ -81,12 +81,13 @@ export default function AboutContent() {
               $33 trillion business, and mortgages account for $15 trillion. Yet
               home finance operates in the same way it has for decades — through
               opaque systems and expensive intermediaries whose interests are
-              misaligned with consumers'.
+              misaligned with consumers&apos.
             </p>
             <p>
-              That's why Better.com is redefining the homeownership process from
-              the ground up. We're using technology to make it faster and more
-              efficient, and humans to help make it friendly and enjoyable.
+              That&aposs why Better.com is redefining the homeownership process
+              from the ground up. We&aposre using technology to make it faster
+              and more efficient, and humans to help make it friendly and
+              enjoyable.
             </p>
           </div>
         </div>
@@ -103,7 +104,7 @@ export default function AboutContent() {
             {
               year: "2014",
               content:
-                "After Vishal Garg's first attempt to purchase his own dream home, he quickly realized that the homebuying process is unnecessarily broken. This inspired him to found a technology-first company led by engineers and data experts with the mission of digitizing and automating home finance to make it cheaper, easier, and faster for all.",
+                "After Vishal Garg&aposs first attempt to purchase his own dream home, he quickly realized that the homebuying process is unnecessarily broken. This inspired him to found a technology-first company led by engineers and data experts with the mission of digitizing and automating home finance to make it cheaper, easier, and faster for all.",
               align: "right",
             },
             {
@@ -139,7 +140,7 @@ export default function AboutContent() {
             {
               year: "2021",
               content:
-                "Better acquires Trussle — The UK's most innovative online mortgage broker.",
+                "Better acquires Trussle — The UK&aposs most innovative online mortgage broker.",
               align: "right",
             },
             {
