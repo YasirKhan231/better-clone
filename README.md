@@ -18,6 +18,5 @@ A full-stack web application. Follow the steps below to run it locally.
  ```bash
 npm install
 
- ```bash
 npm run dev
 
