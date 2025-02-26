@@ -45,7 +45,7 @@ export default function PaymentBreakdown({
       </div>
 
       <div className="flex mb-6 rounded-full overflow-hidden h-4">
-        {segments.map((segment, index) => (
+        {segments.map((segment) => (
           <div
             key={segment.name}
             className={`${segment.color}`}
